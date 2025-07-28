@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarang Patel</h1>
-<h3 align="center">I'm a Master's student in Computer Science with a strong foundation in full-stack development, distributed systems, and data analytics. Passionate about building scalable applications, solving real-world problems, and constantly exploring new technologies.</h3>
+<h3 align="center">I'm a Master's student in Computer Science with a strong foundation in full-stack development, distributed systems, and data analytics. Passionate about building scalable applications, solving real-world problems, and constantly exploring new technologies.</h3> 
+
+---
+
 
 - 🔭 I’m currently working on [minigit](https://github.com/Sarang-Patel/minigit)
 
@@ -12,6 +15,9 @@
 - 📫 How to reach me **patel.sarang@northeastern.edu**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/136aEJexfuQoP7fcECfXOYRhU2YJVBgAP/view?usp=drive_link)
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,4 +54,8 @@
 🛠️ Others
 
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a> </p>
+
+---
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarang-patel&show_icons=true&locale=en&layout=compact" alt="sarang-patel" /></p>
