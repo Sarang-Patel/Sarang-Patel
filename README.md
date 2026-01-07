@@ -1,81 +1,68 @@
 <h1 align="center">Hi 👋, I'm Sarang Patel</h1>
-<h3 align="center">I'm a Master's student in Computer Science with a strong foundation in full-stack development, distributed systems, and data analytics. Passionate about building scalable applications, solving real-world problems, and constantly exploring new technologies.</h3> 
+<h3 align="center">
+Software Engineer with a strong foundation in systems programming, distributed systems, and full-stack development.
+I build scalable, reliable software with an emphasis on performance, fault tolerance, and clean architecture.
+</h3>
 
 ---
 
+- 🔭 I’m currently working on [Rust Shell](https://github.com/Sarang-Patel/Bash-Shell-Rust)
 
-- 🔭 I’m currently working on [minigit](https://github.com/Sarang-Patel/minigit)
+- 👨‍💻 All of my projects are available at [Sarang Patel](https://sarang-patel.netlify.app/)
 
-- 🌱 I’m currently learning **Data Science**
+- 💬 Ask me about **Systems Programming, Distributed Systems, Backend Engineering**
 
-- 👨‍💻 All of my projects are available at [sarang-patel.netlify.app](sarang-patel.netlify.app)
+- 📫 How to reach me **(patel.sarang@northeastern.edu)**
 
-- 💬 Ask me about **Data Analysis, MERN**
-
-- 📫 How to reach me **patel.sarang@northeastern.edu**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/136aEJexfuQoP7fcECfXOYRhU2YJVBgAP/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CVbtEQ08Bl39qGyoAjmJVefeurw_5BXu/view?usp=drive_link)
 
 ---
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/patel-sarang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patel-sarang" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/patel-sarang" target="blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="patel-sarang"
+       height="30"
+       width="40" />
+</a>
 </p>
 
 🧑‍💻 Programming Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=rust,java,python,cpp,javascript,typescript" alt="Programming Languages" />
 </p>
 
-🎨 Frontend Development  
+🖥️ Systems & Backend Engineering  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,svelte,bootstrap,tailwind,sass,html,css,webpack,babel" alt="Frontend Development" />
+  <img src="https://skillicons.dev/icons?i=rust,java,nodejs,express,spring,linux,git" alt="Systems & Backend" />
 </p>
 
-🖥️ Backend Development  
+🎨 Full-Stack Development  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Backend Development" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend Development" />
 </p>
 
-🧠 AI / Machine Learning  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas" alt="AI/ML" />
-</p>
-
-🛢️ Database  
+🛢️ Databases & Storage  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" alt="Databases" />
 </p>
 
-📊 Data Visualization  
+⚙️ Distributed Systems & Infrastructure  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=d3,grafana" alt="Data Visualization" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux" alt="Infrastructure" />
 </p>
 
-⚙️ DevOps  
+☁️ Cloud & Deployment  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=appwrite,netlify,render" alt="Cloud" />
 </p>
 
-☁️ Backend as a Service (BaaS)  
+✅ Testing & Quality  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=appwrite,heroku" alt="BaaS" />
+  <img src="https://skillicons.dev/icons?i=jest,cypress" alt="Testing Tools" />
 </p>
-
-✅ Testing  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cypress,selenium,jest" alt="Testing Tools" />
-</p>
-
-🛠️ Others  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" alt="Others" />
-</p>
-
-
----
 
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarang-patel&show_icons=true&locale=en&layout=compact" alt="sarang-patel" /></p> -->
