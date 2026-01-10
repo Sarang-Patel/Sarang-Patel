@@ -14,7 +14,7 @@ I build scalable, reliable software with an emphasis on performance, fault toler
 
 - 📫 How to reach me **(patel.sarang@northeastern.edu)**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CVbtEQ08Bl39qGyoAjmJVefeurw_5BXu/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://sarang-patel.netlify.app/public/resume/sarang_patel_resume.pdf)
 
 ---
 
